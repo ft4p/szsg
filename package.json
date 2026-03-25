@@ -1,0 +1,21 @@
+{
+  "name": "na",
+  "version": "1.0.0",
+  "description": "a Node.js"
+  "main": "index.js",
+  "author": "ft4p",
+  "repository": "https://github.com/ft4p/na",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
